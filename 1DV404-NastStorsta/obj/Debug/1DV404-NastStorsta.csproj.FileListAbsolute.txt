@@ -1,0 +1,5 @@
+C:\Users\hela\Projects\C#\1DV404\1DV404-NastStorsta\bin\Debug\1DV404-NastStorsta.exe.config
+C:\Users\hela\Projects\C#\1DV404\1DV404-NastStorsta\bin\Debug\1DV404-NastStorsta.exe
+C:\Users\hela\Projects\C#\1DV404\1DV404-NastStorsta\bin\Debug\1DV404-NastStorsta.pdb
+C:\Users\hela\Projects\C#\1DV404\1DV404-NastStorsta\obj\Debug\1DV404-NastStorsta.exe
+C:\Users\hela\Projects\C#\1DV404\1DV404-NastStorsta\obj\Debug\1DV404-NastStorsta.pdb

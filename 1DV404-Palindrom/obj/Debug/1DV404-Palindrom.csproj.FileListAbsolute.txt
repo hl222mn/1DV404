@@ -1,0 +1,6 @@
+C:\Users\hela\Projects\C#\1DV404\1DV404-Palindrom\bin\Debug\1DV404-Palindrom.exe.config
+C:\Users\hela\Projects\C#\1DV404\1DV404-Palindrom\obj\Debug\1DV404-Palindrom.csprojResolveAssemblyReference.cache
+C:\Users\hela\Projects\C#\1DV404\1DV404-Palindrom\bin\Debug\1DV404-Palindrom.exe
+C:\Users\hela\Projects\C#\1DV404\1DV404-Palindrom\bin\Debug\1DV404-Palindrom.pdb
+C:\Users\hela\Projects\C#\1DV404\1DV404-Palindrom\obj\Debug\1DV404-Palindrom.exe
+C:\Users\hela\Projects\C#\1DV404\1DV404-Palindrom\obj\Debug\1DV404-Palindrom.pdb

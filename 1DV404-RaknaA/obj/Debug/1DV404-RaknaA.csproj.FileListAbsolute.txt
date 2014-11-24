@@ -1,0 +1,6 @@
+C:\Users\hela\Projects\C#\1DV404\1DV404-RaknaA\bin\Debug\1DV404-RaknaA.exe.config
+C:\Users\hela\Projects\C#\1DV404\1DV404-RaknaA\obj\Debug\1DV404-RaknaA.csprojResolveAssemblyReference.cache
+C:\Users\hela\Projects\C#\1DV404\1DV404-RaknaA\bin\Debug\1DV404-RaknaA.exe
+C:\Users\hela\Projects\C#\1DV404\1DV404-RaknaA\bin\Debug\1DV404-RaknaA.pdb
+C:\Users\hela\Projects\C#\1DV404\1DV404-RaknaA\obj\Debug\1DV404-RaknaA.exe
+C:\Users\hela\Projects\C#\1DV404\1DV404-RaknaA\obj\Debug\1DV404-RaknaA.pdb

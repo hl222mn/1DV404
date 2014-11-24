@@ -1,0 +1,2 @@
+C:\Users\hela\Projects\C#\1DV404\1DV404 Fraction\bin\Debug\1DV404 Fraction.exe.config
+C:\Users\hela\Projects\C#\1DV404\1DV404 Fraction\obj\Debug\1DV404 Fraction.csprojResolveAssemblyReference.cache
